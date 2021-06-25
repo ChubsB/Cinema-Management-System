@@ -7,3 +7,7 @@ A simple application built with Java and JavaFX as a semester project in my fres
 
 ![Timings](https://raw.githubusercontent.com/ChubsB/Cinema-Management-System/main/Timings.png)
 
+![Tickets](https://raw.githubusercontent.com/ChubsB/Cinema-Management-System/main/ticket.png)
+
+![Checkout](https://raw.githubusercontent.com/ChubsB/Cinema-Management-System/main/Final.png)
+
